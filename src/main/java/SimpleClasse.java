@@ -8,7 +8,7 @@ public class SimpleClasse {
 		int a=3;
 		int b=5;
 		System.out.println(a+" + "+b+" = "+ sc.somme(a, b));
-		System.out.println("coucou prout !")
+		System.out.println("coucou prout !");
 	}
 
 }
